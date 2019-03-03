@@ -34,7 +34,7 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: ÇÁ·ÎÁ§Æ®
+    - text: í”„ë¡œì íŠ¸
       url: /projects/
     - text: XML Feed
       url: /feed.xml
