@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Few of my projects. Currently doing more in backend, focused in java and opensources.
+Few of my projects. Currently doing more in backend, focused in java, python and opensources.
