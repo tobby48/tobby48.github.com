@@ -11,7 +11,7 @@ comments: false
 ## Me ..
 
 > I am institute teacher and freelance developer. <br/>
-> Currently doing more in backend, focused in java, python and opensources.<br/>
+> Currently doing more in backend, focused in java, python, machine learning, and opensources.<br/>
 > My dream is opensource contributor until alive.<br/>
 
 
