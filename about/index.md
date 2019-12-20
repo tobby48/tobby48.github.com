@@ -10,12 +10,15 @@ comments: false
 
 ## Me ..
 
-> ✔️ I am institute teacher and freelance developer. 
-> ✔️ Currently doing more in backend, focused in java, python and opensources.
->  ✔️ My dream is opensource contributor until alive.
+> I am institute teacher and freelance developer. 
+> Currently doing more in backend, focused in java, python and opensources.
+> My dream is opensource contributor until alive.
+
 
 > ✔️ email: tobby48@gmail.com
+
 > ✔️ academy: https://swhacademy.ga
+
 > ✔️ birth: 1981.11.27
 
 - - -
