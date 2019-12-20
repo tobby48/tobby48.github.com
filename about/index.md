@@ -6,7 +6,7 @@ date: 2019-12-20
 comments: false
 ---
     
-<center>7만 줄 이상씩 아키텍처 설계하며 고민하는 재미<br/>최근엔 인공지능이 재미있던데...</center>
+<center>Programming doesn't speak<br/>Design architecture more than 70,000 lines alone</center>
 
 ## Me ..
 
