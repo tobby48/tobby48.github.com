@@ -1,57 +1,77 @@
-title: tobby48's home
-description: tobby48's programming skills
-author: tobby48
-github: https://github.com/tobby48
-about: I am institute teacher and freelance developer. Currently doing more in backend, focused in java, python and opensources.
-disqus_shortname: tobby48
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+# Site
+title:              tobby48 Blog
+bio:                'Forever Developer'
+description:        "tobby48's Dev Blog"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/avatar.jpg'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+baseurl:            ""
+# url:                http://127.0.0.1:4000
+# url:                https://nachwon.github.io
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-enableTags: true
-tagarray: []
+# Comments
+disqus_shortname:   tobby48
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+# twitter:            username
+facebook:           tobby48
+github-url:         tobby48
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+instagram:          tobby48
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+steam:              76561198005689159
+#dribbble:          username
+youtube:            tobby48
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
 
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/tobby48"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tobby48"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/tobby48"
-
-share:
-  twitter_username: tobby48
-  fb_appid: 1749788565247320
-
-urls:
-    - text: About Me
-      url: /about/
-    - text: Project
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
-
-url: "https://tobby48.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
-markdown: kramdown
-gems:
-  - jekyll-paginate
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-gist
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
