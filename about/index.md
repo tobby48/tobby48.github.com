@@ -16,7 +16,7 @@ comments: false
 
 
 > ✔️ email: tobby48@gmail.com <br/>
-> ✔️ academy: https://swhacademy.ga <br/>
+> ✔️ academy: https://swhcoding.com <br/>
 > ✔️ birth: 1981.11.27
 
 - - -
